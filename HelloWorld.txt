@@ -1,2 +1,5 @@
 Hello GDSC,
 This is Git Training Session.
+This is more information
+information 1
+informatino 2
